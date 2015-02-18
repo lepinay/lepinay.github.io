@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "lepinay",
-    "repositoryName": "lepinay.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"lepinay","repositoryName":"lepinay.github.io","branch":"master"},"site":{"title":"My blog","description":"This is my blog !","url":"http://lepinay.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"http://lepinay.github.io/themes/Casper"}}
